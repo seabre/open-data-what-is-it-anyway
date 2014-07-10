@@ -6,31 +6,32 @@ The City of Chattanooga recently proposed an open data initiative. I explain ope
 
 ## Presentation links
 
-### Examples of success of openly available data
+### Why is open data important?
 
 [The Power of Information in Public Services: Evidence from Education in Uganda](http://people.su.se/~jsven/PInformation2010.pdf)
 
 [Exposing Corrupt Politicians: The Effects Of Brazil's Publicly Released Audits On Electoral Outcomes](http://eml.berkeley.edu/~ffinan/Finan_Audit.pdf)
 
-### City of Chattanooga Open Data
+### Open data in Chattanooga
 
 [City of Chattanooga Executive Orders](https://github.com/cityofchattanooga/Executive-Orders)
 
 [Chattanooga Open Data Portal](http://data.chattlibrary.org)
 
-[Suggest a dataset on the Chattanooga Open Data Portal](https://data.chattlibrary.org/nominate)
 
-### Open Chattanooga (local CfA Brigade)
+### How can you participate in the open data movement?
 
-[Open Chattanooga](http://openchattanooga.com)
+[Suggest a dataset on the Chattanooga Open Data Portal](https://data.chattlibrary.org/nominate) - Don't see a dataset? Suggest one!
 
-[Open Chattanooga on GitHub](https://github.com/openchattanooga)
+[Open Chattanooga](http://openchattanooga.com) - Learn more about Open Chattanooga!
 
-[Open Chattanooga Project (Task lists, open to the public)](https://trello.com/b/D4TsoBsT/knight-foundation-open-chattanooga)
+[Open Chattanooga on GitHub](https://github.com/openchattanooga) - Hack on existing projects!
 
-[Suggest projects for Open Chattanooga](https://github.com/openchattanooga/project-ideas/issues)
+[Open Chattanooga Project Management](https://trello.com/b/D4TsoBsT/knight-foundation-open-chattanooga) - Open Chattanooga works out in the public. Check out our task lists to see what we're up to.
 
-### Example Projects Using Open Data
+[Suggest projects for Open Chattanooga](https://github.com/openchattanooga/project-ideas/issues) - Have a project idea. Submit it!
+
+### What kinds of apps or visualizations can I make with open data?
 
 ['Who spends the most time driving to work in the Chattanooga region?' interactive map](http://projects.timesfreepress.com/2014/07/commute/index.html) from [Mary Helen Miller](https://twitter.com/mhelenm)
 
