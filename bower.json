@@ -2,8 +2,7 @@
   "name": "open-data-what-is-it-anyway",
   "private": true,
   "dependencies": {
-    "modernizr": "~2.8.2",
-    "jquery": "~1.11.1"
+    "modernizr": "~2.8.2"
   },
   "devDependencies": {}
 }
