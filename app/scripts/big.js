@@ -1,3 +1,4 @@
+/* jshint ignore:start */
 window.onload = function() {
     var s = document.getElementsByTagName('div'), ti;
     if (!s) return;
