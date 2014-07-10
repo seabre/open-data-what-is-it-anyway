@@ -14,6 +14,8 @@ The City of Chattanooga recently proposed an open data initiative. I explain ope
 
 ### Open data in Chattanooga
 
+[City of Chattanooga Open Data Policy](https://github.com/cityofchattanooga/Executive-Orders/blob/master/EXECUTIVE%20ORDER%202014-04%20Open%20Data.md)
+
 [City of Chattanooga Executive Orders](https://github.com/cityofchattanooga/Executive-Orders)
 
 [Chattanooga Open Data Portal](http://data.chattlibrary.org)
